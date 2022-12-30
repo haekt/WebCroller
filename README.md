@@ -1,5 +1,5 @@
 # WebCroller
-Very Simple Python WebCroller
+Very Simple Python WebCroll function
 
 
 # get_html(url ,tag ,attributes ,parser)
