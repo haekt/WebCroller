@@ -2,7 +2,7 @@
 Very Simple WebCroller
 
 tag : 긁어올 태그, att : 긁어올 속성, parser : 파서의 종류
-#get_html(url ,tag ,attributes ,parser)
+# get_html(url ,tag ,attributes ,parser)
 
 
  example --------------------
