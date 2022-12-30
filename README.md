@@ -5,11 +5,11 @@ Very Simple WebCroller
 get_html(url ,tag ,attributes ,parser)
 
 
-//example --------------------
+# example --------------------
 url = 'http:// ----- '
 
 print(get_html(url,'table',{'class':'test1'},'html5lib'))
 
-// print(get_html(url,0,0,'html5lib'))
-// print(get_html(url,'table',0,'html5lib'))
+# print(get_html(url,0,0,'html5lib'))
+# print(get_html(url,'table',0,'html5lib'))
 
