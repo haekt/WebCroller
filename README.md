@@ -1,9 +1,9 @@
 # WebCroller
-Very Simple WebCroller
+Very Simple Python WebCroller
 
 
 # get_html(url ,tag ,attributes ,parser)
-tag : 긁어올 태그, att : 긁어올 속성, parser : 파서의 종류
+tag : Types of Tags to Import, att : Attributes to import, parser : type of parser
 
  # example --------------------
  url = 'http:// ----- '
